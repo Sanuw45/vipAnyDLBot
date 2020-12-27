@@ -9,5 +9,6 @@ requests
 tgcrypto
 #youtube-dl
 #git+https://github.com/TGExplore/youtube-dl.git
-git+https://github.com/FaArIsH/youtube-dl
+
+git+https://github.com/Esther-Lopez/youtube-dl-1
 
